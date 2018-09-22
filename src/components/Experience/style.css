@@ -1,0 +1,13 @@
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content > div {
+    margin-top: 20px;
+}
+
+.no {
+    margin-bottom: 10px;
+}

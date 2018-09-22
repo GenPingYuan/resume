@@ -1,0 +1,30 @@
+.skillIcon {
+    width: 1.875rem;
+}
+
+.project {
+    font-size: 17px;
+    margin-top: 10px;
+}
+.project > div {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.project > div > div:first-child {
+    width: 130px;
+}
+
+.project > div + div {
+    margin-top: 10px;
+}
+
+.label {
+    margin-right: 10px;
+    color: #777070;
+}
+
+.skillList img{
+    margin-left: 10px;
+}

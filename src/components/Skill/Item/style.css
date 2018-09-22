@@ -1,0 +1,21 @@
+.skill-item {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill-icon {
+    width: 6.25rem;
+}
+.skill-icon img {
+    width: 100%;
+}
+
+.skill-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.625rem;
+    font-size: 1.25rem
+}

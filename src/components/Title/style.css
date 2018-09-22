@@ -1,0 +1,10 @@
+.second-title {
+    color: #B0BBBC;
+    font-size: 1.125rem;
+    border-bottom: 1px solid #EAEAEA;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
