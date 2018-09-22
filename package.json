@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://genpingyuan.github.io/resume/",
+  "homepage": "https://genpingyuan.github.io/resume",
   "dependencies": {
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
