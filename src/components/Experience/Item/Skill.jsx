@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
 import skill from '../../../contants/skill';
-import style from './style.css'
+import style from './style.css';
 class Skill extends Component {
     constructor(props){
         super(props);
+        console.log("样式加载=========");
         console.log(style);
     }
     render() {
