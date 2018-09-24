@@ -37,6 +37,9 @@ export default  [
         name: lag.vue,
         icon: img.vue
     },{
+        name: lag.git,
+        icon: img.git
+    },{
         name: lag.more,
         icon: img.more
     }

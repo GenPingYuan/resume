@@ -6,6 +6,8 @@ import oracleImg from '../static/img/skill/oracle.png';
 import reactImg from '../static/img/skill/react.png';
 import springImg from '../static/img/skill/spring.png';
 import vueImg from '../static/img/skill/vue.png';
+import gitImg from '../static/img/skill/git.png';
+
 
 export const more = moreImg;
 export const java = javaImg;
@@ -15,3 +17,4 @@ export const oracle = oracleImg;
 export const react = reactImg;
 export const spring = springImg;
 export const vue = vueImg;
+export const git = gitImg;
