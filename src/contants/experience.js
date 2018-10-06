@@ -24,10 +24,10 @@ export default [
         ],
         description: `
             该项目是设计出在线游戏对决的管理系统。
-            项目已经上线：http://www.vspub123.com
         `,
         mywork: `
             <p>前后端所有页面均由我个人开发</p>
+            <a href="http://www.vspub123.com" target="_blank">预览</a>
         `
     },
     {
@@ -46,6 +46,22 @@ export default [
             <p>我主要负责如下区域：</p>
             <P>(1) 登录、注册模块</p>
             <P>(2) 商品入库等操作页面设计开发</p>
+        `
+    },
+    {
+        projectName: "仿大众点评APP",
+        time: "开发中",
+        skill: [
+                lag.javaScript,
+                lag.react
+        ],
+        description: `
+            一款商城类的网站
+        `,
+        mywork: `
+            <p><a href="https://genpingyuan.github.io/dazhongdianping/" target="_blank">预览(调成手机屏幕预览效果更佳)</a></p>
+            <p><a href="https://github.com/GenPingYuan/dazhongdianping" target="_blank">源码 </a></p>
+            <p>全部个人开发</p>
         `
     }
 ]
